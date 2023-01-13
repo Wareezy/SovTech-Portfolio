@@ -1,3 +1,20 @@
+Warren Jaftha README FILE
+
+/* VERCEL DEPLOYMENT LINK : https://sov-tech-portfolio-final.vercel.app/ */
+
+My website consists of a very simple look that utilize a sectioned off scrollable page that showcases things like What you should know about me, my Hobbies,Why i should be a programmer at SovTech and my Educated History is also located within the website.
+
+Along with the 8 hours of loadshedding this was the best that i could produce in the limited amount of time that i was presented with , i really hope that you will be impressed with my website and that it makes you happy
+
+Thank you
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
