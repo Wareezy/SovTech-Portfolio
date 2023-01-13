@@ -15,7 +15,7 @@ const Pages =()=>{
     Hello my Name is warren Jaftha i am 21 years old. 
   
   <br></br>
-    I attended and Greaduated from the Cape Academy of Maths Science and Technology
+    I attended and Graduated from the Cape Academy of Maths Science and Technology
             <br></br>
             within our high school it was compulsory to take Information Technology as a subject
             <br></br>
